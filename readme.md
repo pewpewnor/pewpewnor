@@ -50,7 +50,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/ocean.jpg" alt="Pic" />
+<!--  <img align="right" width="350" src="/assets/ocean.jpg" alt="Pic" /> -->
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
