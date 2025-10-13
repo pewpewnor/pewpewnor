@@ -17,7 +17,7 @@
 
 ### 🚀 My Interests
 
-- AI-based systems
+- AI-based, Agentic, Multi-Agent Systems For RAG, Finance, etc
 - Full Stack, GUI, TUI, Mobile, and Cross-Platform Development
 
 ---
