@@ -1,8 +1,9 @@
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/1ac8b61f-f075-4f74-ad2c-2fa0267a417a" alt="Hi, I'm Norbert!" />
   <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Hi, I'm Norbert!" />
 </div>
 
-<h1 align="center">👋 Hi, my name is Norbert</h1>
+<h1 align="center">👋 Hi, I'm Norbert</h1>
 
 <h4 align="center">🖥️ Software & AI Engineer | 🧠 Master of Technology in Artificial Intelligence Systems Student</h4>
 
