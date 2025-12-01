@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1ac8b61f-f075-4f74-ad2c-2fa0267a417a" alt="Hi, I'm Pewpewnor!" />
-  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Hi, I'm Pewpewnor!" />
 </div>
 
 <h1 align="center">👋 Hi, I'm Pewpewnor</h1>
