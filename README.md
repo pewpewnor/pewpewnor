@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1ac8b61f-f075-4f74-ad2c-2fa0267a417a" alt="Hi, I'm Pewpewnor!" />
+  <img src="https://github.com/user-attachments/assets/1ac8b61f-f075-4f74-ad2c-2fa0267a417a" alt="Hi there, I'm Pewpewnor!" />
 </div>
 
-<h1 align="center">👋 Hi, I'm Pewpewnor</h1>
+<h1 align="center">Hi there 👋, I'm Pewpewnor</h1>
 
 <h3 align="center">AI & Software Engineer</h3>
 
@@ -16,8 +16,10 @@
 
 ### 🚀 My Interests
 
-- AI-based, Agentic, Multi-Agent Systems For RAG, Finance, etc
-- Full Stack, GUI, TUI, Mobile, and Cross-Platform Development
+- 🤖 Building **Agentic & Multi Agent AI systems** with RAG, knowledge graphs, and LLM tooling for Finance and beyond
+- 🌐 **Web development**, crafting fast and scalable full stack apps with modern front end and back end stacks
+- 🛠️ **Full stack craft** across GUI, TUI, Mobile, and Cross Platform, shipping clean and maintainable software
+- 📚 Always learning, exploring new languages, architectures, and developer tooling
 
 ---
 
@@ -121,3 +123,16 @@
     <img alt="Contribution Time Distribution of @pewpewnor" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=125549982&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
   </picture>
 </a>
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=125549982" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=125549982&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @pewpewnor" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=125549982&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=pewpewnor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pewpewnor's GitHub stats" />
+  </a>
+</div>
