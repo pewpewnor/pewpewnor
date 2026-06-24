@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi, I'm Pewpewnor</h1>
 
-<h3 align="center">🖥️ Software & AI Engineer | 🧠 Master in Artificial Intelligence Systems Student</h3>
+<h3 align="center">AI & Software Engineer</h3>
 
 <div align="center">
   <a href="https://github.com/pewpewnor" target="_blank">
