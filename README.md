@@ -130,9 +130,3 @@
     <img alt="Dashboard stats of @pewpewnor" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=125549982&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=pewpewnor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pewpewnor's GitHub stats" />
-  </a>
-</div>
