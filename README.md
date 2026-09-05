@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/1ac8b61f-f075-4f74-ad2c-2fa0267a417a" alt="Hi there, I'm Pewpewnor!" />
 </div>
 
-<h1 align="center">Hi there, I'm Pewpewnor</h1>
+<h1 align="center">Hey You, I'm Pewpewnor</h1>
 
 <h3 align="center">AI Engineer & Software Developer</h3>
 
