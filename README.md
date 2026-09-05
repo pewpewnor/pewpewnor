@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/1ac8b61f-f075-4f74-ad2c-2fa0267a417a" alt="Hi there, I'm Pewpewnor!" />
 </div>
 
-<h1 align="center">Hi there 👋, I'm Pewpewnor</h1>
+<h1 align="center">Hi there, I'm Pewpewnor</h1>
 
 <h3 align="center">AI Engineer & Software Developer</h3>
 
@@ -14,16 +14,16 @@
 
 ---
 
-### 🚀 My Interests
+### Motivations
 
-- 🤖 Building **Agentic & Multi Agent AI systems** with RAG, knowledge graphs, and LLM tooling for Finance and beyond
-- 🌐 **Web development**, crafting fast and scalable full stack apps with modern front end and back end stacks
-- 🛠️ **Full stack craft** across GUI, TUI, Mobile, and Cross Platform, shipping clean and maintainable software
-- 📚 Always learning, exploring new languages, architectures, and developer tooling
+- Building Agentic & Multi Agent AI systems with RAG, knowledge graphs, and LLM tooling for Finance and beyond
+- Web development, crafting fast and scalable full stack apps with modern front end and back end stacks
+- Full stack craft across GUI, TUI, Mobile, and Cross Platform, shipping clean and maintainable software
+- Always learning, exploring new languages, architectures, and developer tooling
 
 ---
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 
 #### Programming Languages
 <p align="center">
